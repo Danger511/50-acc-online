@@ -1531,7 +1531,7 @@ jano50.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
+jano.login("1294404198695174296");
 jano2.login("");
 jano3.login("");
 jano4.login("");
